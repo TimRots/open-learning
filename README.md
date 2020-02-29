@@ -1,2 +1,39 @@
 # open-learning
-Links to free learning resources
+Links to free learning resources that peek my interest.
+
+
+### MIT 6.172 Performance Engineering of Software Systems, Fall 2018
+
+##### Course Description
+6.172 is an 18-unit class that provides a hands-on, project-based introduction to building scalable and
+high-performance software systems.
+
+Topics include performance analysis, algorithmic techniques for high performance, instruction-level 
+optimizations, caching optimizations, parallel programming, and building scalable systems.
+The course programming language is C.
+
+* [1. Introduction and Matrix Multiplication](https://www.youtube.com/watch?v=o7h_sYMk_oc)
+* [2. Bentley Rules for Optimizing Work](https://www.youtube.com/watch?v=H-1-X9bkop8)
+* [3. Bit Hacks](https://www.youtube.com/watch?v=ZusiKXcz_ac)
+* [4. Assembly Language & Computer Architecture](https://www.youtube.com/watch?v=L1ung0wil9Y)
+* [5. C to Assembly](https://www.youtube.com/watch?v=wt7a5BOztuM)
+* [6. Multicore Programming](https://www.youtube.com/watch?v=dx98pqJvZVk)
+* [7. Races and Parallelism](https://www.youtube.com/watch?v=a_R_DpsENfk)
+* [8. Analysis of Multithreaded Algorithms](https://www.youtube.com/watch?v=6I26_r1BKd8)
+* [9. What Compilers Can and Cannot Do](https://www.youtube.com/watch?v=ulJm7_aTiQM)
+* [10. Measurement and Timing](https://www.youtube.com/watch?v=LvX3g45ynu8)
+* [11. Storage Allocation](https://www.youtube.com/watch?v=nmMUUuXhk2A)
+* [12. Parallel Storage Allocation](https://www.youtube.com/watch?v=d5e_YJGXXFU)
+* [13. The Cilk Runtime System](https://www.youtube.com/watch?v=Z7r4aAZ9Vqo)
+* [14. Caching and Cache-Efficient Algorithms](https://www.youtube.com/watch?v=xDKnMXtZKq8)
+* [15. Cache-Oblivious Algorithms](https://www.youtube.com/watch?v=xwE568oVQ1Y)
+* [16. Nondeterministic Parallel Programming](https://www.youtube.com/watch?v=mXkPCaZUXhg)
+* [17. Synchronization Without Locks](https://www.youtube.com/watch?v=5sZo3SrLrGA)
+* [18. Domain Specific Languages and Autotuning](https://www.youtube.com/watch?v=bd-mavr5YlA)
+* [19. Leiserchess Codewalk](https://www.youtube.com/watch?v=euO8bqSW_Ow)
+* [20. Speculative Parallelism & Leiserchess](https://www.youtube.com/watch?v=gyaqXwi4BDk)
+* [21. Tuning a TSP Algorithm](https://www.youtube.com/watch?v=SS5KfIFzfEE)
+* [22. Graph Optimization](https://www.youtube.com/watch?v=IT_4fw6gfJw)
+* [23. High Performance in Dynamic Languages](https://www.youtube.com/watch?v=6JcMuFgnA6U)
+
+supplemental readings on MIT OpenCourseWare at: [https://ocw.mit.edu/6-172F18](https://ocw.mit.edu/6-172F18)
